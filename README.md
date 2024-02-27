@@ -10,5 +10,5 @@ $$
 $$ I(R,S) = \sum_i\sum_j(p(s_j)p(r_i|s_j)*log_2(\frac{p(r_i|s_j)}{p(r_i)})$$
 
 
-#Please Cite
+# Please Cite
 If this is used, we would appreciated a reference to Coventry et al, https://doi.org/10.1093/pnasnexus/pgae082 where this was implemented and use.
